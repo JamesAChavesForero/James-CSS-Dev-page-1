@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/James-CSS-Dev-page-1/static/css/main.d0c70f70.css",
+    "main.js": "/James-CSS-Dev-page-1/static/js/main.9699eaff.js",
+    "static/media/me2.png": "/James-CSS-Dev-page-1/static/media/me2.5a3b6238e07e89084d29.png",
+    "static/media/project6.png": "/James-CSS-Dev-page-1/static/media/project6.cfaa811faaaa064cc818.png",
+    "static/media/project5.png": "/James-CSS-Dev-page-1/static/media/project5.1e0b3338de68c0040c99.png",
+    "static/media/project2.jpg": "/James-CSS-Dev-page-1/static/media/project2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/JC-CV.pdf": "/James-CSS-Dev-page-1/static/media/JC-CV.f7c890344963bd062dea.pdf",
+    "static/media/project1.jpg": "/James-CSS-Dev-page-1/static/media/project1.f5e72352e5aa840702b8.jpg",
+    "static/media/mee.png": "/James-CSS-Dev-page-1/static/media/mee.01cdcbd0170aa83274a0.png",
+    "static/media/project3.jpg": "/James-CSS-Dev-page-1/static/media/project3.cbab42559fe73e73906f.jpg",
+    "static/media/project4.jpg": "/James-CSS-Dev-page-1/static/media/project4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/James-CSS-Dev-page-1/index.html",
+    "main.d0c70f70.css.map": "/James-CSS-Dev-page-1/static/css/main.d0c70f70.css.map",
+    "main.9699eaff.js.map": "/James-CSS-Dev-page-1/static/js/main.9699eaff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c70f70.css",
+    "static/js/main.9699eaff.js"
+  ]
+}
