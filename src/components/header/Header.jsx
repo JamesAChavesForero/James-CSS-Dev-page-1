@@ -11,10 +11,30 @@ export default function Header() {
             <div className='container header__container'>
                 <h5>Hello I'm</h5>
                 <h1> James Chaves</h1>
-                <h5 className='text-light'> Front End Developer</h5>
+                <div className="dancing__text h-[135px]">
+                    <span>F</span>
+                    <span>R</span>
+                    <span>O</span>
+                    <span>N</span>
+                    <span>T</span>
+                    <span>-</span>
+                    <span>E</span>
+                    <span>N</span>
+                    <span>D</span>
+                    <br/>
+                    <span>D</span>
+                    <span>E</span>
+                    <span>V</span>
+                    <span>E</span>
+                    <span>L</span>
+                    <span>O</span>
+                    <span>P</span>
+                    <span>E</span>
+                    <span>R</span>
+                </div>
                 <CTA />
-                <Socials/>
-                <Nav/>
+                <Socials />
+                <Nav />
                 <div className='me m-2 p-1 '>
                     <img src={me} alt='' className='mi'></img>
                 </div>
