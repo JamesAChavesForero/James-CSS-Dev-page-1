@@ -1,0 +1,93 @@
+{
+    "expObjectArray": [
+        {
+            "Tools": [ 
+                {
+                    "HTML5": "4"
+                },
+                {
+                    "CSS3": "4"
+                },
+                {
+                    "Javascript": "4"
+                },
+                {
+                    "NPM": "3"
+                },
+                {
+                    "React": "3"
+                },
+                {
+                    "Figma UX/UI": "3"
+                },
+                {
+                    "JQuery": "3"
+                },
+                {
+                    "Bootstrap": "3"
+                },
+                {
+                    "JS/React Libraries": "3"
+                },
+                {
+                    "Typescript": "2"
+                },
+                {
+                    "Tailwind": "2"
+                },
+                {
+                    "Shopify/Liquid": "1.5"
+                },
+                {
+                    "MUI": "0.5"
+                },
+                {
+                    "Next 13": "0.5"
+                },
+                {
+                    "Builder.IO": "0.5"
+                }
+            ]
+        },
+        {
+            "skills": [
+                {
+                    "Web Development": "4"
+                },
+                {
+                    "Ecmascript Debuggin": "4"
+                },
+                {
+                    "Mark-up Wire Framing": "4"
+                },
+                {
+                    "Custom Visual Designs": "4"
+                },
+                {
+                    "Data Manipulation": "4"
+                },
+                {
+                    "Responsive UI": "4"
+                },
+                {
+                    "Interactice UX": "3"
+                },
+                {
+                    "Integrating Cloud DBs": "2"
+                },
+                {
+                    "SEO": "2"
+                },
+                {
+                    "Web Scrapping": "1.5"
+                },
+                {
+                    "Builder.IO": "0.5"
+                },
+                {
+                    "CRO": "1"
+                }
+            ]
+        }
+    ]
+}
