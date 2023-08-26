@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/James-CSS-Dev-page-1/static/css/main.d0c70f70.css",
-    "main.js": "/James-CSS-Dev-page-1/static/js/main.9699eaff.js",
+    "main.css": "/James-CSS-Dev-page-1/static/css/main.55f5fac1.css",
+    "main.js": "/James-CSS-Dev-page-1/static/js/main.22842d5b.js",
     "static/media/me2.png": "/James-CSS-Dev-page-1/static/media/me2.5a3b6238e07e89084d29.png",
     "static/media/project6.png": "/James-CSS-Dev-page-1/static/media/project6.cfaa811faaaa064cc818.png",
     "static/media/project5.png": "/James-CSS-Dev-page-1/static/media/project5.1e0b3338de68c0040c99.png",
@@ -12,11 +12,11 @@
     "static/media/project3.jpg": "/James-CSS-Dev-page-1/static/media/project3.cbab42559fe73e73906f.jpg",
     "static/media/project4.jpg": "/James-CSS-Dev-page-1/static/media/project4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/James-CSS-Dev-page-1/index.html",
-    "main.d0c70f70.css.map": "/James-CSS-Dev-page-1/static/css/main.d0c70f70.css.map",
-    "main.9699eaff.js.map": "/James-CSS-Dev-page-1/static/js/main.9699eaff.js.map"
+    "main.55f5fac1.css.map": "/James-CSS-Dev-page-1/static/css/main.55f5fac1.css.map",
+    "main.22842d5b.js.map": "/James-CSS-Dev-page-1/static/js/main.22842d5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0c70f70.css",
-    "static/js/main.9699eaff.js"
+    "static/css/main.55f5fac1.css",
+    "static/js/main.22842d5b.js"
   ]
 }
