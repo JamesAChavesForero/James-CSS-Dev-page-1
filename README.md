@@ -4,7 +4,7 @@ Hey there! Welcome to my exciting professional portfolio where I'm thrilled to s
 
 ## About Me
 
-I'm a passionate and creative [Your Name], and I've poured my heart and soul into crafting this portfolio. I'm a firm believer in lifelong learning and pushing the boundaries of what's possible. I believe that every project I undertake is an opportunity to learn, grow, and create something truly amazing.
+I'm a passionate , dedicated and creative developer, and I've poured my heart and soul into crafting this portfolio. I'm a firm believer in lifelong learning and pushing the boundaries of what's possible. I believe that every project I undertake is an opportunity to learn, grow, and create something truly amazing.
 
 ## Portfolio Highlights
 
@@ -27,18 +27,10 @@ Please note some chnages are not being reflected in GitHub.io , please kidnly ru
 
 
 
-## How to Explore
+## Note To Devs
 
-1. Dive right into the [portfolio section](portfolio/) to see my projects in action.
-2. Curious about my design skills? Head over to the [design section](design/) and check out my creative endeavors.
-3. For a glimpse into my professional journey, browse through my [CV](cv/) where I've shared my experience and achievements.
-4. And don't forget to visit my [blog](blog/) to read about my musings and learnings.
+There are many many improvemnets I would like to make but time is not on my side It's 7 am and i havent slept so even though I'd like to present a more professional portfolio I truly gave this my everything and I am very produ to be able to turn this in on time
 
-## A Note
+Thank you for your time if you read this :)
 
-Creating this portfolio was an exciting journey, and I'm thrilled to have you explore it. Remember, every pixel, every line of code, represents my passion for creating meaningful experiences.
-
-I'm always open to collaborations, discussions, or just a friendly chat. Feel free to reach out—I'd love to connect and learn from fellow enthusiasts like you!
-
-Happy exploring and let's create something amazing together! 🎉🌈
 
