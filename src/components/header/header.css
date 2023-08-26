@@ -46,7 +46,7 @@ header{
 .dancing__text span:hover {
     font-size: 2rem;
     color: white;
-    cursor: ;
+    cursor: pointer;
 }
 
 .me{
