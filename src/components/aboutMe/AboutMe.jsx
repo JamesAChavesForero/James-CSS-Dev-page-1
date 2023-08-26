@@ -46,7 +46,7 @@ export default function AboutMe() {
 
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis delectus beatae porro sit eius numquam ratione quam, neque sequi excepturi eos odio, provident magnam voluptatibus? Quo aliquid fugit recusandae quidem!
+           I am veryexcited to showcase some of my skills in this page in hopes that I may have the privilage to continue on my journey as a Front-End Developer, Doing what I love and getting better everyday
           </p>
           <a href='#contact' className='btn btn-primary border-slate-100'> <b className=' animate-pulse font-bold'>Let's Talk</b> </a>
         </div>
