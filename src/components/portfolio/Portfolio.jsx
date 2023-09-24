@@ -48,13 +48,13 @@ const Portfolio = () => {
   ];
 
   return (
-    <section className="hover:bg-gray-400 bg-[#ffffff34] text-gray-800 font-sans z-[10]">
+    <section className="hover:border  text-gray-800 font-sans z-[10]">
       <section id="portfolio "className="text-white ">
         <h2 className="text-5xl font-bold z-[1] animate-bounce">Projects</h2>
-        <ul className="!z-[2] flex flex-col sm:flex-row align-middle justify-between p-10 ">
+        <ul className="!z-[2] flex flex-wrap flex-col sm:flex-row align-middle justify-evenly p-1 m-2  ">
           {projects.map((project, index) => (
-            <li key={index} className="bg-[#1f1f38] p-3 rounded-lg shadow-md transition-transform hover:transform hover:-translate-y-2 hover:shadow-lg z-[2] !m-2 ">
-              <h3 className="text-xl font-semibold text-navy-700 ">{project.title}</h3>
+            <li key={index} className="bg-white hover:bg-[#2c2c6c] p-4 md:w-[400px] sm:w-[250px] my-4 gap-3 rounded-lg shadow-md transition-transform hover:transform hover:-translate-y-2 hover:-border-white hover:shadow-lg z-[2] ">
+              <h3 className="text-2xl font-semibold text-navy-700 p-4  ">{project.title}</h3>
               <p className="">{project.description}</p>
               <a
                 href={project.link}

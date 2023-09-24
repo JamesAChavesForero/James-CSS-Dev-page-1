@@ -21,7 +21,7 @@ export default function Experience() {
   return (
     <section id='experience'>
       <h5>Tools Skills - & - Experience</h5>
-      <div className="container experience__container [&>div]:m-4 [&>div]:text-center">
+      <div className="container experience__container sm:flex !sm:flex-col justify-center [&>div]:m-2 [&>div]:text-center">
         <div className="flex flex-col justify-evenly"id="tools">
           <h3>Tools Used</h3>
           <div className="experience__content">
